@@ -1,0 +1,6 @@
+FirstName LastName Age Score Username Password Level Exp
+Michael Karimizadeh 17 12 miggil miggil 2 20
+Oliver Mo 17 25 olive olive 2 10
+Lisa Luong 17 999 lisa lisa 0 0
+Grace Lei 17 999 grass grass 0 0
+Oliver Mo 20 999 123 456 0 10
