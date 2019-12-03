@@ -35,7 +35,7 @@ If the username or password does not match, a notification will appear displayin
   v) When the game starts, the user can choose to leave the game (Exit... button), but experience will not be gained and scores will not count for leader board rankings. Additionally, you may request the rules with the ? button.
   
   
-Issues of certain useless classes:
+Issues of certain useless classes:                                                                                                        
 When we made this game, this was part of our final project. The 1500 lines of code and commenting required alot of effort to finish the main game controls on time. Intially, to fulfill the requirements for the project, we made ideas for achievements, perks and items that can be obtain as you play the game. The workload was found to be overbearing and we left it as just a simple number guessing game. Thus, the leveling system is not used to its full potential our project was submitted as such.
 
 The game is still a functioning number guessing game with its own GUI, however the addition perks, items and achievements are left unfinished.
